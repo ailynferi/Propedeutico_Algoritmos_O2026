@@ -1,4 +1,4 @@
-# Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos Otoño 2024
+# Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos Otoño 2026
 
 # ¡HOLA A TODOS! 
 
